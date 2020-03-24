@@ -1,0 +1,45 @@
+
+
+body {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  background: #DB6713;
+  background: linear-gradient(45deg, #dba013, #df2445);
+  font-family: 'Lato', sans-serif;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    
+}
+.Headline {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    padding: 100px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 900;
+    font-size: 60px;
+    color: #ffffff;
+    width: 100&;
+}
+
+#clock {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    padding: 100px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 900;
+    font-size: 70px;
+    color: #ffffff;
+    width: 100&;
+}
+
